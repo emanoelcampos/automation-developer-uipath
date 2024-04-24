@@ -8,7 +8,7 @@ Automation Developer Associate Training
 - [x] Explore automation development with UiPath Studio
 - [x] Build your first process with Studio
 - [x] Variables, Constants and Arguments in Studio
-- [ ] Control Flow in Studio
+- [x] Control Flow in Studio
 - [ ] Excel Automation with the Modern Experience in Studio
 - [ ] User Interface (UI) Automation with Modern Design in Studio
 
