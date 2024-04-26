@@ -12,6 +12,9 @@ Automation Developer Associate Training
 - [x] Excel Automation with the Modern Experience in Studio
 - [x] User Interface (UI) Automation with Modern Design in Studio
 
+<img src="badges/automation-explorer.png" style="display: block; margin-left: auto; margin-right: auto;" alt="uipath academy automation explorer training badge">
+
+
 ## Automation Developer Associate
 - [ ] Data Manipulation with Strings in Studio
 - [ ] Data Manipulation with Lists and Dictionaries in Studio
