@@ -10,7 +10,7 @@ Automation Developer Associate Training
 - [x] Variables, Constants and Arguments in Studio
 - [x] Control Flow in Studio
 - [x] Excel Automation with the Modern Experience in Studio
-- [ ] User Interface (UI) Automation with Modern Design in Studio
+- [x] User Interface (UI) Automation with Modern Design in Studio
 
 ## Automation Developer Associate
 - [ ] Data Manipulation with Strings in Studio
