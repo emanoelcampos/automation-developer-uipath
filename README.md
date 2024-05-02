@@ -16,7 +16,7 @@
 
 
 ### Associate Training
-- [ ] Data Manipulation with Strings in Studio
+- [x] Data Manipulation with Strings in Studio
 - [ ] Data Manipulation with Lists and Dictionaries in Studio
 - [ ] UI Automation Synchronization with Studio
 - [ ] UI Automation Descriptors in Studio
