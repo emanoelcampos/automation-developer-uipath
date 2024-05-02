@@ -1,0 +1,30 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strFirstName&Sequence_2",
+        "strAge&Sequence_2",
+        "strRText&Sequence_4",
+        "strRText2&Sequence_6",
+        "intAge&Sequence_6",
+        "strDetails&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "in_OutputFolderPath",
+        "in_InputFolderPath"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
